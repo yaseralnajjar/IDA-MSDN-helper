@@ -5,7 +5,7 @@
 
 ; Z-Rantom | AT4RE
 ; 2015/01/12
-; Special thx to Koud3lka
+; Special thx to Koud3lka & Prodigy
 
 
 Run("idaq64.exe")
