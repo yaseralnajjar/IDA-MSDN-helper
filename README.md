@@ -4,6 +4,7 @@ Description:
 Simply, this tool will help you to get to Offline MSDN help while using IDA Pro.
 By selecting a function name or a line that contains it in IDA then pressing Alt+Z, it will automatically open MSDN description for this function.
 
+
 Files:
 IMH.exe   ==> Loader and helper for IDA Pro x86.
 IMH_x.exe ==> Loader and helper for IDA Pro x64.
