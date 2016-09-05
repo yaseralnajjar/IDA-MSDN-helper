@@ -39,3 +39,6 @@ Mechanism
 When you select a line that contains a function, such as "call    MessageBoxA", the tool 
 will automatically trim this text into "MessageBox".
 It also supports other forms of calling functions like "call    ds:MessageBoxA" or "call    esi ; MessageBoxA ".
+
+-----------
+0xRumple
